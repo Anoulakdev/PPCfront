@@ -13,7 +13,7 @@ import authConfig from 'src/configs/auth'
 
 // const url = 'http://localhost:8081/v1/api-graphql'
 
-const url = 'http://192.168.20.75:8081/v1/api-graphql'
+const url = 'https://api-ppcd.edl.com.la/v1/api-graphql'
 
 // const url = 'http://150.95.30.174:8081/v1/api-graphql'
 
